@@ -414,6 +414,11 @@ android {
       applicationId = 'org.medicmobile.webapp.mobile.moh_togo_uat'
     }
 
+    livinggoods_ke_vihiga_production {
+      dimension = 'brand'
+      applicationId = 'org.livinggoods.vihiga.production.ke'
+    }
+
   }
 
   splits {
