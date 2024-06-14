@@ -419,6 +419,11 @@ android {
       applicationId = 'org.livinggoods.vihiga.production.ke'
     }
 
+    livinggoods_ke_echis_production {
+      dimension = 'brand'
+      applicationId = 'org.livinggoods.echis.production.ke'
+    }
+
   }
 
   splits {
