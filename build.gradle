@@ -424,6 +424,11 @@ android {
       applicationId = 'org.livinggoods.echis.production.ke'
     }
 
+    livinggoods_ke_echis_v2_training {
+      dimension = 'brand'
+      applicationId = 'org.livinggoods.echis.v2.training.ke'
+    }
+
   }
 
   splits {
