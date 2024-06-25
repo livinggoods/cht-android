@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LG Uganda R2</string>
+    <string name="app_host">ug-production-region-2.lg-apps.com</string>
+</resources>
