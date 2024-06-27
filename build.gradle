@@ -439,6 +439,11 @@ android {
       applicationId = 'org.livinggoods.r2.production.ug'
     }
 
+    livinggoods_ke_busia_ls_staging {
+      dimension = 'brand'
+      applicationId = 'org.livinggoods.busia.ls.staging.ke'
+    }
+
   }
 
   splits {
